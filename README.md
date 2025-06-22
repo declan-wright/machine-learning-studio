@@ -3,17 +3,17 @@
 
 ## Supported Activation Functions
 
-- **SwiGLU** (Recommended) - State-of-the-art activation from modern transformers
-- **GELU** - Gaussian Error Linear Unit, popular in modern ML
-- **Leaky ReLU** - Improved version of ReLU with small negative slope
-- **ReLU** - Classic Rectified Linear Unit
-- **Tanh** - Hyperbolic tangent activation
+- **SwiGLU** 
+- **GELU** 
+- **Leaky ReLU**
+- **ReLU**
+- **Tanh** 
 
 ## Supported Data Types
 
-- **Regression**: Predicting continuous numerical values
-- **Classification**: Predicting categories or classes
-- **Mixed Data**: Handles both numerical and categorical features automatically
+- **Regression**
+- **Classification**
+- **Mixed Data**
 
 ## Model Configuration Options
 
